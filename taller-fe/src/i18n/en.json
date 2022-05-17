@@ -1,0 +1,35 @@
+{
+   "app": {
+      "appName": "My lists",
+      "titulo": "My task lists",
+      "inicio": "Home",
+      "acerca_de": "About",
+      "btnAtras": "Back"
+   },
+   "acerca_de": {
+      "titulo": "About this App",
+      "text": "My task lists manage application"
+   },
+   "add": {
+      "titulo": "Add new list",
+      "lblNombre": "Name: ",
+      "lblColor" : "Comor: ",
+      "ttpNombre": "List name",
+      "btnAdd": "New list",
+      "btnAddList": "Create",
+      "errNombre": "Debe escribir un nombre de la lista."
+   },
+   "list": {
+      "titulo": "My lists",
+      "noLists": "You have not created any list yet",
+      "ttpNoVisible": "Hide list",
+      "ttpVisible": "Show list",
+      "optTodas": "View ALL",
+      "optVisibles": "View Visible",
+      "optNOVisibles": "View Hidden"
+   },
+   "delete": {
+      "ttpBtn": "Delete"
+   }
+}
+

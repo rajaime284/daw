@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="ProveedorEN" table="Proveedor"> 
+				  	
+						<id name="Id" column="idProveedor" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Nombre" type="string"> 
+						<column name="nombre"  not-null="true"/>
+					</property>
+					<property name="NumeroTelefono" type="string"> 
+						<column name="numeroTelefono"  not-null="true"/>
+					</property>
+					<property name="Email" type="string"> 
+						<column name="email"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+		  			
+						<bag name="CompraProveedor" >
+							<key>
+							
+								
+								<column name="FK_idProveedor_idProveedor"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.CompraProveedorEN"/>
+					    </bag>
+					
+			
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="ProveedorENReadAllHQL">from ProveedorEN</query>
+		</hibernate-mapping>
+	

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="CajeroEN" table="Cajero"> 
+				  	
+						<id name="Id" column="idCajero" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+			
+			
+			
+		  			
+						<bag name="Rol" >
+							<key>
+							
+								
+								<column name="FK_idCajero_idCajero"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.RolEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Caja" table="[encargado_caja]"  >
+							<key>
+								
+									<column name="FK_idCajero_idCajero"/> 
+							</key>
+      						<many-to-many class="TpvhostGenNHibernate.EN.Rest.CajaEN">
+									<column name="FK_idCaja_idCaja"/> 
+      						</many-to-many>
+    					</bag>
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="CajeroENReadAllHQL">from CajeroEN</query>
+		</hibernate-mapping>
+	

@@ -1,0 +1,35 @@
+{
+   "app": {
+      "appName": "Mis listas",
+      "titulo": "Mis listas de tareas",
+      "inicio": "Inicio",
+      "acerca_de": "Acerca de",
+      "btnAtras": "Volver"
+   },
+   "acerca_de": {
+      "titulo": "Sobre esta App",
+      "text": "Aplicación de gestión de mis listas de tareas"
+   },
+   "add": {
+      "titulo": "Añadir nueva lista",
+      "lblNombre": "Nombre: ",
+      "lblColor" : "Comor: ",
+      "ttpNombre": "Nombre de la lista",
+      "btnAdd": "Nueva lista",
+      "btnAddList": "Crear",
+      "errNombre": "Debe escribir un nombre de la lista."
+   },
+   "list": {
+      "titulo": "Mis listas",
+      "noLists": "No has creado ninguna lista todavía",
+      "ttpNoVisible": "Ocultar lista",
+      "ttpVisible": "Mostrar lista",
+      "optTodas": "Ver TODAS",
+      "optVisibles": "Ver visibles",
+      "optNOVisibles": "Ver NO visibles"
+   },
+   "delete": {
+      "ttpBtn": "Eliminar"
+   }  
+}
+

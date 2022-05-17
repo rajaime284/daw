@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A79A7B2B-E71E-4E15-BD8C-A731395C44F2}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>tpvhostGenEmpleadoRESTAzureREST</RootNamespace>
+    <AssemblyName>tpvhostGenEmpleadoRESTAzureREST</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Http.Cors">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Cors.5.2.2\lib\net45\System.Web.Http.Cors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Cors">
+      <HintPath>..\packages\Microsoft.AspNet.Cors.5.2.2\lib\net45\System.Web.Cors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Pages">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Helpers">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Pages.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.3\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Swashbuckle.Core">
+      <HintPath>..\ServiceLib\Swashbuckle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="WebActivatorEx">
+      <HintPath>..\ServiceLib\WebActivatorEx.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Castle.DynamicProxy2, Version=2.1.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\tpvhostGenNHibernate\AppLib\Castle.DynamicProxy2.dll</HintPath>
+    </Reference>
+    <Reference Include="LinFu.DynamicProxy, Version=1.0.3.14911, Culture=neutral, PublicKeyToken=62a6874124340d6e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\tpvhostGenNHibernate\AppLib\LinFu.DynamicProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=2.1.2.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\tpvhostGenNHibernate\AppLib\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.ByteCode.Castle, Version=2.1.2.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\tpvhostGenNHibernate\AppLib\NHibernate.ByteCode.Castle.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.ByteCode.LinFu, Version=2.1.2.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\tpvhostGenNHibernate\AppLib\NHibernate.ByteCode.LinFu.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime, Version=3.1.0.39271, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\tpvhostGenNHibernate\AppLib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\tpvhostGenNHibernate\tpvhostGenNHibernate.csproj">
+      <Project>{66C66636-FD6A-4A3F-A7C5-FE88BBA117AF}</Project>
+      <Name>nhibernateGen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web.config" />
+    <Content Include="Global.asax" />
+    <Content Include="apiapp.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="App_Start\SwaggerConfig.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\NegocioDTO.cs" />
+    <Compile Include="AssemblersDTO\NegocioAssemblerDTO.cs" />
+    <Compile Include="DTO\EmpleadoDTO.cs" />
+    <Compile Include="AssemblersDTO\EmpleadoAssemblerDTO.cs" />
+    <Compile Include="DTO\RolDTO.cs" />
+    <Compile Include="AssemblersDTO\RolAssemblerDTO.cs" />
+    <Compile Include="DTO\CamareroDTO.cs" />
+    <Compile Include="AssemblersDTO\CamareroAssemblerDTO.cs" />
+    <Compile Include="DTO\CocineroDTO.cs" />
+    <Compile Include="AssemblersDTO\CocineroAssemblerDTO.cs" />
+    <Compile Include="DTO\CajeroDTO.cs" />
+    <Compile Include="AssemblersDTO\CajeroAssemblerDTO.cs" />
+    <Compile Include="DTO\DuenyoDTO.cs" />
+    <Compile Include="AssemblersDTO\DuenyoAssemblerDTO.cs" />
+    <Compile Include="DTO\EncargadoDTO.cs" />
+    <Compile Include="AssemblersDTO\EncargadoAssemblerDTO.cs" />
+    <Compile Include="DTO\ServicioDTO.cs" />
+    <Compile Include="AssemblersDTO\ServicioAssemblerDTO.cs" />
+    <Compile Include="DTO\ComandaDTO.cs" />
+    <Compile Include="AssemblersDTO\ComandaAssemblerDTO.cs" />
+    <Compile Include="DTO\MenuDTO.cs" />
+    <Compile Include="AssemblersDTO\MenuAssemblerDTO.cs" />
+    <Compile Include="DTO\PlatoDTO.cs" />
+    <Compile Include="AssemblersDTO\PlatoAssemblerDTO.cs" />
+    <Compile Include="DTO\LineaComandaDTO.cs" />
+    <Compile Include="AssemblersDTO\LineaComandaAssemblerDTO.cs" />
+    <Compile Include="DTO\ProductoDTO.cs" />
+    <Compile Include="AssemblersDTO\ProductoAssemblerDTO.cs" />
+    <Compile Include="DTO\CobroDTO.cs" />
+    <Compile Include="AssemblersDTO\CobroAssemblerDTO.cs" />
+    <Compile Include="DTO\FacturaDTO.cs" />
+    <Compile Include="AssemblersDTO\FacturaAssemblerDTO.cs" />
+    <Compile Include="DTO\ProveedorDTO.cs" />
+    <Compile Include="AssemblersDTO\ProveedorAssemblerDTO.cs" />
+    <Compile Include="DTO\MesaDTO.cs" />
+    <Compile Include="AssemblersDTO\MesaAssemblerDTO.cs" />
+    <Compile Include="DTO\ClienteDTO.cs" />
+    <Compile Include="AssemblersDTO\ClienteAssemblerDTO.cs" />
+    <Compile Include="DTO\EmpresaDTO.cs" />
+    <Compile Include="AssemblersDTO\EmpresaAssemblerDTO.cs" />
+    <Compile Include="DTO\LineaCompraProveedorDTO.cs" />
+    <Compile Include="AssemblersDTO\LineaCompraProveedorAssemblerDTO.cs" />
+    <Compile Include="DTO\CajaDTO.cs" />
+    <Compile Include="AssemblersDTO\CajaAssemblerDTO.cs" />
+    <Compile Include="DTO\LineaPlatoDTO.cs" />
+    <Compile Include="AssemblersDTO\LineaPlatoAssemblerDTO.cs" />
+    <Compile Include="DTO\CompraProveedorDTO.cs" />
+    <Compile Include="AssemblersDTO\CompraProveedorAssemblerDTO.cs" />
+    <Compile Include="DTO\CategoriaServicioDTO.cs" />
+    <Compile Include="AssemblersDTO\CategoriaServicioAssemblerDTO.cs" />
+    <Compile Include="DTO\PagoDTO.cs" />
+    <Compile Include="AssemblersDTO\PagoAssemblerDTO.cs" />
+    <Compile Include="DTO\TipoPagoDTO.cs" />
+    <Compile Include="AssemblersDTO\TipoPagoAssemblerDTO.cs" />
+    <Compile Include="DTO\LineaMenuDTO.cs" />
+    <Compile Include="AssemblersDTO\LineaMenuAssemblerDTO.cs" />
+    <Compile Include="DTO\TipoCobroDTO.cs" />
+    <Compile Include="AssemblersDTO\TipoCobroAssemblerDTO.cs" />
+    <Compile Include="DTO\UnidadMedidaDTO.cs" />
+    <Compile Include="AssemblersDTO\UnidadMedidaAssemblerDTO.cs" />
+    <Compile Include="Controllers\BasicController.cs" />
+    <Compile Include="CAD\EmpleadoAnonimoRESTCAD.cs" />
+    <Compile Include="DTOA\EmpleadoAnonimoDTOA.cs" />
+    <Compile Include="Assemblers\EmpleadoAnonimoAssembler.cs" />
+    <Compile Include="Controllers\EmpleadoAnonimoController.cs" />
+    <Compile Include="CAD\EmpleadoCamareroRESTCAD.cs" />
+    <Compile Include="DTOA\EmpleadoCamareroDTOA.cs" />
+    <Compile Include="Assemblers\EmpleadoCamareroAssembler.cs" />
+    <Compile Include="Controllers\EmpleadoCamareroController.cs" />
+    <Compile Include="CAD\EmpleadoCocineroRESTCAD.cs" />
+    <Compile Include="DTOA\EmpleadoCocineroDTOA.cs" />
+    <Compile Include="Assemblers\EmpleadoCocineroAssembler.cs" />
+    <Compile Include="Controllers\EmpleadoCocineroController.cs" />
+    <Compile Include="CAD\CocineroRESTCAD.cs" />
+    <Compile Include="DTOA\CocineroDTOA.cs" />
+    <Compile Include="Assemblers\CocineroAssembler.cs" />
+    <Compile Include="Controllers\CocineroController.cs" />
+    <Compile Include="CAD\RolCocineroRESTCAD.cs" />
+    <Compile Include="DTOA\RolCocineroDTOA.cs" />
+    <Compile Include="Assemblers\RolCocineroAssembler.cs" />
+    <Compile Include="Controllers\RolCocineroController.cs" />
+    <Compile Include="CAD\RolCamareroRESTCAD.cs" />
+    <Compile Include="DTOA\RolCamareroDTOA.cs" />
+    <Compile Include="Assemblers\RolCamareroAssembler.cs" />
+    <Compile Include="Controllers\RolCamareroController.cs" />
+    <Compile Include="CAD\CamareroRESTCAD.cs" />
+    <Compile Include="DTOA\CamareroDTOA.cs" />
+    <Compile Include="Assemblers\CamareroAssembler.cs" />
+    <Compile Include="Controllers\CamareroController.cs" />
+    <Compile Include="CAD\RolCajeroRESTCAD.cs" />
+    <Compile Include="DTOA\RolCajeroDTOA.cs" />
+    <Compile Include="Assemblers\RolCajeroAssembler.cs" />
+    <Compile Include="Controllers\RolCajeroController.cs" />
+    <Compile Include="CAD\CajeroRESTCAD.cs" />
+    <Compile Include="DTOA\CajeroDTOA.cs" />
+    <Compile Include="Assemblers\CajeroAssembler.cs" />
+    <Compile Include="Controllers\CajeroController.cs" />
+    <Compile Include="CAD\EmpleadoCajeroRESTCAD.cs" />
+    <Compile Include="DTOA\EmpleadoCajeroDTOA.cs" />
+    <Compile Include="Assemblers\EmpleadoCajeroAssembler.cs" />
+    <Compile Include="Controllers\EmpleadoCajeroController.cs" />
+    <Compile Include="CAD\EmpleadoEncargadoRESTCAD.cs" />
+    <Compile Include="DTOA\EmpleadoEncargadoDTOA.cs" />
+    <Compile Include="Assemblers\EmpleadoEncargadoAssembler.cs" />
+    <Compile Include="Controllers\EmpleadoEncargadoController.cs" />
+    <Compile Include="CAD\RolEncargadoRESTCAD.cs" />
+    <Compile Include="DTOA\RolEncargadoDTOA.cs" />
+    <Compile Include="Assemblers\RolEncargadoAssembler.cs" />
+    <Compile Include="Controllers\RolEncargadoController.cs" />
+    <Compile Include="CAD\EncargadoRESTCAD.cs" />
+    <Compile Include="DTOA\EncargadoDTOA.cs" />
+    <Compile Include="Assemblers\EncargadoAssembler.cs" />
+    <Compile Include="Controllers\EncargadoController.cs" />
+    <Compile Include="CAD\PedidoRESTCAD.cs" />
+    <Compile Include="DTOA\PedidoDTOA.cs" />
+    <Compile Include="Assemblers\PedidoAssembler.cs" />
+    <Compile Include="Controllers\PedidoController.cs" />
+    <Compile Include="CAD\LineaPedidoRESTCAD.cs" />
+    <Compile Include="DTOA\LineaPedidoDTOA.cs" />
+    <Compile Include="Assemblers\LineaPedidoAssembler.cs" />
+    <Compile Include="Controllers\LineaPedidoController.cs" />
+    <Compile Include="CAD\CajaRESTCAD.cs" />
+    <Compile Include="DTOA\CajaDTOA.cs" />
+    <Compile Include="Assemblers\CajaAssembler.cs" />
+    <Compile Include="Controllers\CajaController.cs" />
+    <Compile Include="CAD\MenuRESTCAD.cs" />
+    <Compile Include="DTOA\MenuDTOA.cs" />
+    <Compile Include="Assemblers\MenuAssembler.cs" />
+    <Compile Include="Controllers\MenuController.cs" />
+    <Compile Include="CAD\PlatoRESTCAD.cs" />
+    <Compile Include="DTOA\PlatoDTOA.cs" />
+    <Compile Include="Assemblers\PlatoAssembler.cs" />
+    <Compile Include="Controllers\PlatoController.cs" />
+    <Compile Include="CAD\PagoRESTCAD.cs" />
+    <Compile Include="DTOA\PagoDTOA.cs" />
+    <Compile Include="Assemblers\PagoAssembler.cs" />
+    <Compile Include="Controllers\PagoController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v16.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>5137</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:16209/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="EmpleadoEN" table="Empleado"> 
+				  	
+						<id name="DNI" column="DNIEmpleado" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Nombre" type="string"> 
+						<column name="nombre"  not-null="true"/>
+					</property>
+					<property name="Apellidos" type="string"> 
+						<column name="apellidos"  not-null="true"/>
+					</property>
+					<property name="Pass" type="string"> 
+						<column name="pass"  not-null="true"/>
+					</property>
+			
+			
+		  			
+						<bag name="Rol" >
+							<key>
+							
+								
+								<column name="FK_DNIEmpleado_idEmpleado"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.RolEN"/>
+					    </bag>
+					
+			
+		  			
+						<many-to-one name="Negocio" class="TpvhostGenNHibernate.EN.Rest.NegocioEN" >	
+								<column name="FK_idNegocio_idNegocio"/> 
+						</many-to-one>
+											 					
+			
+			
+			
+			
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="EmpleadoENReadAllHQL">from EmpleadoEN</query>
+		</hibernate-mapping>
+	

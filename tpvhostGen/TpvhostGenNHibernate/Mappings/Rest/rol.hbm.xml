@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="RolEN" table="Rol"> 
+				  	
+						<id name="Id" column="idRol" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Empleo" > 
+						<column name="empleo"  not-null="true"/>
+					</property>
+			
+			
+			
+		  			
+						<many-to-one name="Cajero" class="TpvhostGenNHibernate.EN.Rest.CajeroEN" >	
+								<column name="FK_idCajero_idCajero"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<many-to-one name="Cocinero" class="TpvhostGenNHibernate.EN.Rest.CocineroEN" >	
+								<column name="FK_idCocinero_idCocinero"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<many-to-one name="Encargado" class="TpvhostGenNHibernate.EN.Rest.EncargadoEN" >	
+								<column name="FK_idEncargado_idEncargado"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<many-to-one name="Camarero" class="TpvhostGenNHibernate.EN.Rest.CamareroEN" >	
+								<column name="FK_idCamarero_idCamarero"/> 
+						</many-to-one>
+											 					
+			
+			
+		  			
+						<many-to-one name="Empleado" class="TpvhostGenNHibernate.EN.Rest.EmpleadoEN" >	
+								<column name="FK_DNIEmpleado_idEmpleado"/> 
+						</many-to-one>
+											 					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="RolENReadAllHQL">from RolEN</query>
+		</hibernate-mapping>
+	

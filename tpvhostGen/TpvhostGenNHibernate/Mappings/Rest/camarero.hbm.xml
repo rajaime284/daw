@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="CamareroEN" table="Camarero"> 
+				  	
+						<id name="Id" column="idCamarero" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+			
+			
+			
+		  			
+						<bag name="Rol" >
+							<key>
+							
+								
+								<column name="FK_idCamarero_idCamarero"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.RolEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Pedido" >
+							<key>
+							
+								
+								<column name="FK_idCamarero_idCamarero"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.ComandaEN"/>
+					    </bag>
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="CamareroENReadAllHQL">from CamareroEN</query>
+		</hibernate-mapping>
+	

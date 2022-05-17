@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="NegocioEN" table="Negocio"> 
+				  	
+						<id name="Id" column="idNegocio" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Nombre" type="string"> 
+						<column name="nombre"  not-null="true"/>
+					</property>
+					<property name="Direccion" type="string"> 
+						<column name="direccion"  not-null="true"/>
+					</property>
+					<property name="Ciudad" type="string"> 
+						<column name="ciudad"  not-null="true"/>
+					</property>
+					<property name="Cp" type="string"> 
+						<column name="cp"  not-null="true"/>
+					</property>
+					<property name="Provincia" type="string"> 
+						<column name="provincia"  not-null="true"/>
+					</property>
+					<property name="Pais" type="string"> 
+						<column name="pais"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		  			
+						<bag name="Servicios" >
+							<key>
+							
+								
+								<column name="FK_idNegocio_idNegocio"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.ServicioEN"/>
+					    </bag>
+					
+			
+		  			
+						<many-to-one name="Empresa" class="TpvhostGenNHibernate.EN.Rest.EmpresaEN" >	
+								<column name="FK_idEmpresa_idEmpresa"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<bag name="Mesa" >
+							<key>
+							
+								
+								<column name="FK_idNegocio_idNegocio"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.MesaEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Caja" >
+							<key>
+							
+								
+								<column name="FK_idNegocio_idNegocio"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.CajaEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="CompraProveedor" >
+							<key>
+							
+								
+								<column name="FK_idNegocio_idNegocio"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.CompraProveedorEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Producto" >
+							<key>
+							
+								
+								<column name="FK_idNegocio_idNegocio"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.ProductoEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Empleado" >
+							<key>
+							
+								
+								<column name="FK_idNegocio_idNegocio"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.EmpleadoEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Cliente" >
+							<key>
+							
+								
+								<column name="FK_idNegocio_idNegocio"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.ClienteEN"/>
+					    </bag>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="NegocioENReadAllHQL">from NegocioEN</query>
+		</hibernate-mapping>
+	

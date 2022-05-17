@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="EncargadoEN" table="Encargado"> 
+				  	
+						<id name="Id" column="idEncargado" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+			
+			
+			
+		  			
+						<bag name="Rol" >
+							<key>
+							
+								
+								<column name="FK_idEncargado_idEncargado"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.RolEN"/>
+					    </bag>
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="EncargadoENReadAllHQL">from EncargadoEN</query>
+		</hibernate-mapping>
+	

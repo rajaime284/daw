@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="CobroEN" table="Cobro"> 
+				  	
+						<id name="Id" column="idCobro" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Monto" type="float"> 
+						<column name="monto"  not-null="true"/>
+					</property>
+					<property name="TipoDeCobro" type="string"> 
+						<column name="tipoDeCobro"  not-null="true"/>
+					</property>
+					<property name="NumeroTransaccion" type="string"> 
+						<column name="numeroTransaccion"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+		  			
+						<many-to-one name="Comanda" class="TpvhostGenNHibernate.EN.Rest.ComandaEN" >	
+								<column name="FK_idComanda_idPedido"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<many-to-one name="Cliente" class="TpvhostGenNHibernate.EN.Rest.ClienteEN" >	
+								<column name="FK_idCliente_idCliente"/> 
+						</many-to-one>
+											 					
+			
+			
+		  			
+						<many-to-one name="TipoCobro" class="TpvhostGenNHibernate.EN.Rest.TipoCobroEN" >	
+								<column name="FK_idTipoCobro_idTipoCobro"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<bag name="Caja" table="[caja_cobro]" inverse="true" >
+							<key>
+								
+									<column name="FK_idCobro_idCobro"/> 
+							</key>
+      						<many-to-many class="TpvhostGenNHibernate.EN.Rest.CajaEN">
+									<column name="FK_idCaja_idCaja"/> 
+      						</many-to-many>
+    					</bag>
+			
+					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="CobroENReadAllHQL">from CobroEN</query>
+		</hibernate-mapping>
+	

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="EmpresaEN" table="Empresa"> 
+				  	
+						<id name="Id" column="idEmpresa" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Nombre" type="string"> 
+						<column name="nombre"  not-null="true"/>
+					</property>
+					<property name="Direccion" type="string"> 
+						<column name="direccion"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+		  			
+						<many-to-one name="Dueño" class="TpvhostGenNHibernate.EN.Rest.DuenyoEN" >	
+								<column name="FK_idDuenyo_idDueño"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<bag name="Negocio" >
+							<key>
+							
+								
+								<column name="FK_idEmpresa_idEmpresa"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.NegocioEN"/>
+					    </bag>
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="EmpresaENReadAllHQL">from EmpresaEN</query>
+		</hibernate-mapping>
+	

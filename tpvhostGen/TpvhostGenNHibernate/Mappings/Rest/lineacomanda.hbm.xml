@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="LineaComandaEN" table="LineaComanda"> 
+				  	
+						<id name="Id" column="idLineaComanda" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Cantidad" type="integer"> 
+						<column name="cantidad"  not-null="true"/>
+					</property>
+			
+			
+			
+		  			
+						<many-to-one name="Comanda" class="TpvhostGenNHibernate.EN.Rest.ComandaEN" >	
+								<column name="FK_idComanda_idPedido"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<many-to-one name="Plato" class="TpvhostGenNHibernate.EN.Rest.PlatoEN" >	
+								<column name="FK_idPlato_idPlato"/> 
+						</many-to-one>
+											 					
+			
+			
+		  			
+						<many-to-one name="Menu" class="TpvhostGenNHibernate.EN.Rest.MenuEN" >	
+								<column name="FK_idMenu_idMenu"/> 
+						</many-to-one>
+											 					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="LineaComandaENReadAllHQL">from LineaComandaEN</query>
+		</hibernate-mapping>
+	

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="LineaCompraProveedorEN" table="LineaCompraProveedor"> 
+				  	
+						<id name="Id" column="idLineaCompraProveedor" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Cantidad" type="integer"> 
+						<column name="cantidad"  not-null="true"/>
+					</property>
+					<property name="Costo" type="double"> 
+						<column name="Costo"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+		  			
+						<many-to-one name="Servicio" class="TpvhostGenNHibernate.EN.Rest.ServicioEN" >	
+								<column name="FK_idServicio_idServicio"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<many-to-one name="CompraProveedor" class="TpvhostGenNHibernate.EN.Rest.CompraProveedorEN" >	
+								<column name="FK_idCompraProveedor_idPedidoProveedor"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<many-to-one name="Producto" class="TpvhostGenNHibernate.EN.Rest.ProductoEN" >	
+								<column name="FK_idProducto_idProducto"/> 
+						</many-to-one>
+											 					
+			
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="LineaCompraProveedorENReadAllHQL">from LineaCompraProveedorEN</query>
+		</hibernate-mapping>
+	

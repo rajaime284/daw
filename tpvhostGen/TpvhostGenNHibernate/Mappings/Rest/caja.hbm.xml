@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="CajaEN" table="Caja"> 
+				  	
+						<id name="Id" column="idCaja" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Fondo" type="double"> 
+						<column name="fondo" />
+					</property>
+					<property name="Saldo" type="double"> 
+						<column name="saldo" />
+					</property>
+					<property name="Descripcion" type="string"> 
+						<column name="descripcion"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+		  			
+						<many-to-one name="Negocio" class="TpvhostGenNHibernate.EN.Rest.NegocioEN" >	
+								<column name="FK_idNegocio_idNegocio"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<bag name="Cajero" table="[encargado_caja]" inverse="true" >
+							<key>
+								
+									<column name="FK_idCaja_idCaja"/> 
+							</key>
+      						<many-to-many class="TpvhostGenNHibernate.EN.Rest.CajeroEN">
+									<column name="FK_idCajero_idCajero"/> 
+      						</many-to-many>
+    					</bag>
+			
+		  			
+						<bag name="Pago" table="[caja_pago]"  >
+							<key>
+								
+									<column name="FK_idCaja_idCaja"/> 
+							</key>
+      						<many-to-many class="TpvhostGenNHibernate.EN.Rest.PagoEN">
+									<column name="FK_idPago_idPago"/> 
+      						</many-to-many>
+    					</bag>
+			
+			
+		  			
+						<bag name="Cobro" table="[caja_cobro]"  >
+							<key>
+								
+									<column name="FK_idCaja_idCaja"/> 
+							</key>
+      						<many-to-many class="TpvhostGenNHibernate.EN.Rest.CobroEN">
+									<column name="FK_idCobro_idCobro"/> 
+      						</many-to-many>
+    					</bag>
+			
+					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="CajaENReadAllHQL">from CajaEN</query>
+		</hibernate-mapping>
+	

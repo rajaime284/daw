@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="ServicioEN" table="Servicio"> 
+				  	
+						<id name="Id" column="idServicio" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Nombre" type="string"> 
+						<column name="nombre"  not-null="true"/>
+					</property>
+					<property name="Costo" type="double"> 
+						<column name="costo" />
+					</property>
+					<property name="CodigoContrato" type="string"> 
+						<column name="codigoContrato" />
+					</property>
+			
+			
+			
+		  			
+						<many-to-one name="Negocio" class="TpvhostGenNHibernate.EN.Rest.NegocioEN" >	
+								<column name="FK_idNegocio_idNegocio"/> 
+						</many-to-one>
+											 					
+			
+			
+			
+		  			
+						<bag name="LineaProveedor" cascade="delete">
+							<key>
+							
+								
+								<column name="FK_idServicio_idServicio"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.LineaCompraProveedorEN"/>
+					    </bag>
+					
+			
+			
+		  			
+						<many-to-one name="CategoriaServicio" class="TpvhostGenNHibernate.EN.Rest.CategoriaServicioEN" >	
+								<column name="FK_idCategoriaServicio_idCategoriaServicio"/> 
+						</many-to-one>
+											 					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="ServicioENReadAllHQL">from ServicioEN</query>
+		</hibernate-mapping>
+	

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="PlatoEN" table="Plato"> 
+				  	
+						<id name="Id" column="idPlato" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Nombre" type="string"> 
+						<column name="nombre"  not-null="true"/>
+					</property>
+					<property name="Stock" type="double"> 
+						<column name="stock" />
+					</property>
+					<property name="Precio" type="double"> 
+						<column name="precio"  not-null="true"/>
+					</property>
+			
+			
+			
+		  			
+						<bag name="LineaComanda" >
+							<key>
+							
+								
+								<column name="FK_idPlato_idPlato"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.LineaComandaEN"/>
+					    </bag>
+					
+			
+			
+			
+			
+		  			
+						<bag name="LineaPlato" cascade="delete">
+							<key>
+							
+								
+								<column name="FK_idPlato_idPlato"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.LineaPlatoEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="LineaMenu" cascade="delete">
+							<key>
+							
+								
+								<column name="FK_idPlato_idPlato"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.LineaMenuEN"/>
+					    </bag>
+					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="PlatoENReadAllHQL">from PlatoEN</query>
+		</hibernate-mapping>
+	

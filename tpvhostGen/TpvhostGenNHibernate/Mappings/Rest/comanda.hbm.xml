@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="ComandaEN" table="Comanda"> 
+				  	
+						<id name="Id" column="idComanda" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="EstadoPedido" > 
+						<column name="estadoPedido"  not-null="true"/>
+					</property>
+					<property name="Fecha" type="date"> 
+						<column name="fecha"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+		  			
+						<many-to-one name="Camarero" class="TpvhostGenNHibernate.EN.Rest.CamareroEN" >	
+								<column name="FK_idCamarero_idCamarero"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<bag name="LineaComanda" cascade="delete">
+							<key>
+							
+								
+								<column name="FK_idComanda_idPedido"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.LineaComandaEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Pago" >
+							<key>
+							
+								
+								<column name="FK_idComanda_idPedido"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.CobroEN"/>
+					    </bag>
+					
+			
+		  			
+						<many-to-one name="Mesa" class="TpvhostGenNHibernate.EN.Rest.MesaEN" >	
+								<column name="FK_idMesa_idMesa"/> 
+						</many-to-one>
+											 					
+			
+		  			
+					
+							<many-to-one name="Factura" class="TpvhostGenNHibernate.EN.Rest.FacturaEN" >
+								<column name="FK_idFactura_idFactura"/> 
+        					</many-to-one>
+					 
+						
+			
+					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="ComandaENReadAllHQL">from ComandaEN</query>
+		</hibernate-mapping>
+	

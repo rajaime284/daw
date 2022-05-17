@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="ClienteEN" table="Cliente"> 
+				  	
+						<id name="Id" column="idCliente" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Dni" type="string"> 
+						<column name="dniCliente"  unique="true" not-null="true"/>
+					</property>
+					<property name="Nombre" type="string"> 
+						<column name="nombre"  not-null="true"/>
+					</property>
+					<property name="Apellidos" type="string"> 
+						<column name="apellidos"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+		  			
+						<bag name="Factura" >
+							<key>
+							
+								
+								<column name="FK_idCliente_idCliente"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.FacturaEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Cobro" >
+							<key>
+							
+								
+								<column name="FK_idCliente_idCliente"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.CobroEN"/>
+					    </bag>
+					
+			
+			
+		  			
+						<many-to-one name="Negocio" class="TpvhostGenNHibernate.EN.Rest.NegocioEN" >	
+								<column name="FK_idNegocio_idNegocio"/> 
+						</many-to-one>
+											 					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="ClienteENReadAllHQL">from ClienteEN</query>
+		</hibernate-mapping>
+	

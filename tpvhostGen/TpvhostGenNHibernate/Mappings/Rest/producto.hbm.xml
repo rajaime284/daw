@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="ProductoEN" table="Producto"> 
+				  	
+						<id name="Id" column="idProducto" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Stock" type="double"> 
+						<column name="stock" />
+					</property>
+					<property name="Descripcion" type="string"> 
+						<column name="descripcion"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+		  			
+						<many-to-one name="UnidadMedida" class="TpvhostGenNHibernate.EN.Rest.UnidadMedidaEN" >	
+								<column name="FK_idUnidadMedida_idUnidadMedida_0"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<bag name="LineaCompraProveedor" cascade="delete">
+							<key>
+							
+								
+								<column name="FK_idProducto_idProducto"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.LineaCompraProveedorEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="LineaPlato" >
+							<key>
+							
+								
+								<column name="FK_idProducto_idProducto"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.LineaPlatoEN"/>
+					    </bag>
+					
+			
+		  			
+						<many-to-one name="Negocio" class="TpvhostGenNHibernate.EN.Rest.NegocioEN" >	
+								<column name="FK_idNegocio_idNegocio"/> 
+						</many-to-one>
+											 					
+			
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="ProductoENReadAllHQL">from ProductoEN</query>
+		</hibernate-mapping>
+	

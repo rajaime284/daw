@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="LineaPlatoEN" table="LineaPlato"> 
+				  	
+						<id name="Id" column="idLineaPlato" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Cantidad" type="double"> 
+						<column name="cantidad"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+		  			
+						<many-to-one name="Producto" class="TpvhostGenNHibernate.EN.Rest.ProductoEN" >	
+								<column name="FK_idProducto_idProducto"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<many-to-one name="Plato" class="TpvhostGenNHibernate.EN.Rest.PlatoEN" >	
+								<column name="FK_idPlato_idPlato"/> 
+						</many-to-one>
+											 					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="LineaPlatoENReadAllHQL">from LineaPlatoEN</query>
+		</hibernate-mapping>
+	

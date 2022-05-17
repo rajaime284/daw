@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="TpvhostGenNHibernate"
+		                   namespace="TpvhostGenNHibernate.EN.Rest">
+		    
+		    
+			
+				<class name="DuenyoEN" table="Duenyo"> 
+				  	
+						<id name="Id" column="idDuenyo" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Dni" type="string"> 
+						<column name="dniDuenyo"  unique="true" not-null="true"/>
+					</property>
+					<property name="Nombre" type="string"> 
+						<column name="nombre"  not-null="true"/>
+					</property>
+					<property name="Apellido" type="string"> 
+						<column name="apellido"  not-null="true"/>
+					</property>
+					<property name="Telefono" type="string"> 
+						<column name="telefono"  not-null="true"/>
+					</property>
+					<property name="Pass" type="string"> 
+						<column name="pass"  not-null="true"/>
+					</property>
+			
+			
+			
+		  			
+						<bag name="Empresa" >
+							<key>
+							
+								
+								<column name="FK_idDuenyo_idDueño"/>
+					      	</key>
+							<one-to-many class="TpvhostGenNHibernate.EN.Rest.EmpresaEN"/>
+					    </bag>
+					
+			
+			
+			
+			
+			
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="DuenyoENReadAllHQL">from DuenyoEN</query>
+		</hibernate-mapping>
+	
