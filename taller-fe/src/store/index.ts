@@ -1,54 +1,48 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 
-import TaskList from "@/models/TaskList";
 import serviceAPI from '@/services/service'; // @ is an alias to /src
 import { APIStatus } from '@/http-config';
+import Producto from '@/models/Producto';
 
 Vue.use(Vuex)
 
 export default new Vuex.Store({
    state: {
-      listas: Array<TaskList>(),
+      productos: Array<Producto>(),
       error: ""
    },
    getters: {
       getAll(state) {
-         return state.listas;
+         return state.productos;
       },
       getCount(state) {
-         return state.listas.length;
+         return state.productos.length;
       },
       getNextId(state) {
-         return state.listas.length>0?state.listas[state.listas.length-1].id+1:1;
-      },
-      getVisible: (state) => (index: number) => {
-         return state.listas[index].visible;
+         return state.productos.length>0?state.productos[state.productos.length-1].id+1:1;
       },
       getError(state) {
          return state.error;
       }
    },
    mutations: {
-      setLists(state, lists) {
-         state.listas = lists;
+      setProductos(state, productos) {
+         state.productos = productos;
       },
-      add(state, lista: TaskList) {
-         state.listas.push(lista);
+      add(state, producto: Producto) {
+         state.productos.push(producto);
       },
       del(state, index: number) {
-         state.listas.splice(index, 1);
+         state.productos.splice(index, 1);
       },
-      setVisible(state, index:number) {
-         state.listas[index].visible = (state.listas[index].visible ? false : true);
-      }
    },
    actions: {
-      getLists({ commit }) {
+      getProductos({ commit }) {
          this.state.error="";
-         serviceAPI.getRaw("APIListas").then(r=> {
+         serviceAPI.getRaw("Producto/ReadAll").then(r=> {
             if (r.status==APIStatus.OK) {
-               commit('setLists', r.respuesta)
+               commit('setProductos', r.respuesta)
             } else {
                this.state.error=r.error;   
             }
@@ -56,11 +50,9 @@ export default new Vuex.Store({
             this.state.error=e;
          });
       }, 
-      addList({ commit }, lista) {
+      addProducto({ commit }, producto) {
          this.state.error="";
-         lista.fecha = lista.fecha.format("YYYY-MM-DDTHH:mm:ss");
-         lista.visible = lista.visible?"S":"N";
-         serviceAPI.post("APIListas", lista).then(r=> {
+         serviceAPI.post("Producto/Nuevo", producto).then(r=> {
             if (r.status==APIStatus.OK) {
                commit('add', r.respuesta)
             } else {

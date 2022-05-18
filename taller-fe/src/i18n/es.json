@@ -1,32 +1,26 @@
 {
    "app": {
-      "appName": "Mis listas",
-      "titulo": "Mis listas de tareas",
+      "appName": "Nombre corporativo",
+      "titulo": "Tienda online",
       "inicio": "Inicio",
       "acerca_de": "Acerca de",
       "btnAtras": "Volver"
    },
    "acerca_de": {
       "titulo": "Sobre esta App",
-      "text": "Aplicación de gestión de mis listas de tareas"
+      "text": "Aplicación de una tienda online"
    },
    "add": {
-      "titulo": "Añadir nueva lista",
+      "titulo": "Añadir nuevo producto",
       "lblNombre": "Nombre: ",
-      "lblColor" : "Comor: ",
-      "ttpNombre": "Nombre de la lista",
-      "btnAdd": "Nueva lista",
-      "btnAddList": "Crear",
-      "errNombre": "Debe escribir un nombre de la lista."
+      "ttpNombre": "Nombre del producto",
+      "btnNewItem": "Nuevo producto",
+      "btnCreate": "Crear",
+      "errNombre": "Debe escribir un nombre de producto."
    },
-   "list": {
-      "titulo": "Mis listas",
-      "noLists": "No has creado ninguna lista todavía",
-      "ttpNoVisible": "Ocultar lista",
-      "ttpVisible": "Mostrar lista",
-      "optTodas": "Ver TODAS",
-      "optVisibles": "Ver visibles",
-      "optNOVisibles": "Ver NO visibles"
+   "productos": {
+      "titulo": "Productos",
+      "noItems": "No hay ningún producto"
    },
    "delete": {
       "ttpBtn": "Eliminar"

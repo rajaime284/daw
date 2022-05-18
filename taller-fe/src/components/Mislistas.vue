@@ -2,49 +2,24 @@
    <div>
       <h1>{{ titulo }}</h1>
       <button v-if="mode!='add'" v-on:click="addMode()" class="btn btn-primary">
-         {{$t('add.btnAdd')}}
+         {{$t('add.btnNewItem')}}
       </button>
 
       <div class="alert alert-danger" v-if="errGet!=''">Error: {{errGet}}</div>
       
       <div class="container" v-if="errGet=='' && mode=='list'">
          <fieldset>
-            <legend>{{$t('list.titulo')}}</legend>
-            <div class="row justify-content-end">
-               <select class="form-control col-md-3" v-model="slctVisible">
-                  <option value="T">{{$t('list.optTodas')}}</option>
-                  <option value="V">{{$t('list.optVisibles')}}</option>
-                  <option value="N">{{$t('list.optNOVisibles')}}</option>
-               </select>
-            </div>
-            <template v-for="(list, index) in getAll()">
-               <div class="card" v-bind:key="list.id" v-if="getVisibility(index)"
+            <legend>{{$t('productos.titulo')}}</legend>
+            <template v-for="(list) in getAll()">
+               <div class="card" v-bind:key="list.id" v-if="true"
                v-bind:style="{ 'background-color': list.color}">
                   <div class="card-body">
-                     <div class="tituloLista">
-                        {{list.nombre}}
-                        <div class="btn-group">
-                           <button v-on:click="deleteList(index)" 
-                           class="btn btn-sm btn-danger" 
-                           v-bind:title="$t('delete.ttpBtn')">
-                              <font-awesome-icon icon="trash"></font-awesome-icon>
-                           </button>
-                           <button v-if="list.visible==true"  v-on:click="visibleList(index)" 
-                           class="btn btn-sm btn-info" v-bind:title="$t('list.ttpNoVisible')">
-                              <font-awesome-icon icon="eye-slash"></font-awesome-icon>
-                           </button>
-                           <button v-if="list.visible==false" v-on:click="visibleList(index)" 
-                           class="btn btn-sm btn-info" v-bind:title="$t('list.ttpVisible')">
-                              <font-awesome-icon icon="eye"></font-awesome-icon>
-                           </button>
-                        </div>
-                     </div>
-                     <small>{{list.fecha | formatDate}}</small>
+                     test
                   </div>
                </div>
             </template>
             <div v-if="getCount()==0" class="alert alert-warning">
-               {{$t('list.noLists')}}
+               {{$t('productos.noItems')}}
             </div>
          </fieldset>
       </div>
@@ -55,22 +30,17 @@
             <form>
                <div class="form-group">
                   <label for="addListNombre">{{$t('add.lblNombre')}}</label>
-                  <input ref="newList_nombre" v-model="newList.nombre" type="text" 
+                  <input ref="newList_nombre" v-model="newProducto.nombre" type="text" 
                   class="form-control" id="addListNombre" 
                   v-bind:placeholder="$t('add.ttpNombre')">
                   <span v-if="errList.nombre" class="small text-danger">
                         {{$t('add.errNombre')}}
                   </span>
                </div>
-               <div class="form-group">
-                  <label for="addListColor"> {{$t('add.lblColor')}}</label>
-                  <input v-model="newList.color" type="color" class="form-control" 
-                  id="addListColor">
-               </div>  
             </form>
             <div class="btn-group">
-               <button v-on:click="addList()" class="btn btn-primary">
-                  {{$t('add.btnAddList')}}
+               <button v-on:click="addProducto()" class="btn btn-primary">
+                  {{$t('add.btnCreate')}}
                </button>
                <button v-on:click="listMode()" class="btn btn-danger">
                   {{$t('app.btnAtras')}}
@@ -88,8 +58,8 @@
 
 <script lang="ts">
 import { Component, Prop, Vue } from 'vue-property-decorator';
-import TaskList from '@/models/TaskList';
 import moment from 'moment';
+import Producto from '@/models/Producto';
 
 @Component({
    filters: {
@@ -103,18 +73,18 @@ import moment from 'moment';
 
 export default class Mislistas extends Vue {
    $refs!: {
-    newList_nombre: HTMLFormElement
+    newProducto_nombre: HTMLFormElement
   }
    @Prop() private titulo!: string;
    mode="list";
    //VUEX: lists:TaskList[]=[];
-   newList:TaskList=new TaskList();
+   newProducto:Producto=new Producto();
    errList= {nombre: false};
    slctVisible='T';
    errGet="";
    errAdd="";
    mounted() {
-      this.$store.dispatch("getLists");
+      this.$store.dispatch("getProductos");//Aqui se llama al metodo del api
       this.errGet="";
       if (this.hayError()) {
          this.errGet = this.getError();
@@ -135,7 +105,7 @@ export default class Mislistas extends Vue {
    addMode():void {
       //VUEX: let nextId= this.lists.length>0?this.lists[this.lists.length-1].id+1:+1;
       //API: let nextId= this.$store.getters.getNextId;
-      this.newList = new TaskList();
+      this.newProducto = new Producto();
       //API: this.newList.id= nextId;
       this.mode="add";
       this.errList.nombre=false;
@@ -143,12 +113,11 @@ export default class Mislistas extends Vue {
    listMode():void {
       this.mode="list";
    }
-   addList():void {
-      if (this.newList.nombre != "") {
-         this.newList.fecha = moment();
+   addProducto():void {
+      if (this.newProducto.nombre != "") {
 			//VUEX: this.lists.push(this.newList);
          //API: this.$store.commit('add', this.newList);
-         this.$store.dispatch("addList", this.newList);
+         this.$store.dispatch("addProducto", this.newProducto);
          this.errAdd="";
          if (this.hayError()) {
             this.errAdd = this.getError();
@@ -157,33 +126,12 @@ export default class Mislistas extends Vue {
          }
 		} else {
 			this.errList.nombre = true;
-			this.$refs.newList_nombre.focus();
+			this.$refs.newProducto_nombre.focus();
 		}
    }
    deleteList(list:number) {
       //VUEX: this.lists.splice(list, 1);
       this.$store.commit('del', list);
-   }
-   visibleList(index:number) {
-      //VUEX: this.lists[index].visible = (this.lists[index].visible ? false : true);
-      this.$store.commit('setVisible', index);
-   }
-   getVisibility(index:number) {
-      let res = true;
-      switch (this.slctVisible) {
-         case "V":
-            //VUEX: res = this.lists[index].visible;
-            res = this.$store.getters.getVisible(index);
-            break;
-         case "N":
-            //VUEX: res = !this.lists[index].visible;
-            res = !this.$store.getters.getVisible(index);
-            break;
-         default:
-            res = true;
-            break;
-      }
-      return res;
    }
 }
 </script>

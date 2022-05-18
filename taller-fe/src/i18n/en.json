@@ -11,22 +11,16 @@
       "text": "My task lists manage application"
    },
    "add": {
-      "titulo": "Add new list",
+      "titulo": "Add new item",
       "lblNombre": "Name: ",
-      "lblColor" : "Comor: ",
-      "ttpNombre": "List name",
-      "btnAdd": "New list",
-      "btnAddList": "Create",
-      "errNombre": "Debe escribir un nombre de la lista."
+      "ttpNombre": "Item name",
+      "btnNewItem": "New item",
+      "btnCreate": "Create",
+      "errNombre": "You must type an item name."
    },
-   "list": {
-      "titulo": "My lists",
-      "noLists": "You have not created any list yet",
-      "ttpNoVisible": "Hide list",
-      "ttpVisible": "Show list",
-      "optTodas": "View ALL",
-      "optVisibles": "View Visible",
-      "optNOVisibles": "View Hidden"
+   "productos": {
+      "titulo": "Items",
+      "noItems": "You have not created any item yet"
    },
    "delete": {
       "ttpBtn": "Delete"
