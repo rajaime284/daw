@@ -98,11 +98,7 @@
 <script lang="ts">
 import { Component, Prop, Vue } from 'vue-property-decorator';
 import moment from 'moment';
-//import BootstrapVue from 'bootstrap-vue/dist/bootstrap-vue.esm';
-import 'bootstrap-vue/dist/bootstrap-vue.css';
-import 'bootstrap/dist/css/bootstrap.css';
 
-//Vue.use(BootstrapVue);
 import Producto from '@/models/Producto';
 
 @Component({

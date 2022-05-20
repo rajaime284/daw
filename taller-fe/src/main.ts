@@ -5,6 +5,12 @@ import './registerServiceWorker'
 import router from './router'
 import store from './store'
 
+import { BootstrapVue } from 'bootstrap-vue'
+import 'bootstrap-vue/dist/bootstrap-vue.css';
+import 'bootstrap/dist/css/bootstrap.css';
+
+Vue.use(BootstrapVue);
+
 import VueI18n from 'vue-i18n'
 
 Vue.use(VueI18n)
@@ -16,8 +22,6 @@ const i18n = new VueI18n({
   locale: defaultLang,
   fallbackLocale: defaultLang
 });
-
-Vue.use(require('vue-moment'))
 
 Vue.config.productionTip = false
 
