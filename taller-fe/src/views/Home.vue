@@ -1,7 +1,9 @@
 <template>
   <div>
     <Mislistas v-bind:titulo="$t('app.titulo')"/>
+    
   </div>
+  
 </template>
 
 <script lang="ts">
