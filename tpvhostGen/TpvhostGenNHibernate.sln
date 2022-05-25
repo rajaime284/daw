@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpvhostGenNHibernate", "Tpv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpvhostGenTpvhostRESTAzure", "tpvhostGenTpvhostRESTAzure\tpvhostGenTpvhostRESTAzure.csproj", "{3069D642-C1CD-4615-85ED-C16A7DBFC94A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "taller-be", "taller-be\taller-be.csproj", "{D52E8FD4-DFCA-4F0F-A4A0-CF2EE5471663}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,14 @@ Global
 		{3069D642-C1CD-4615-85ED-C16A7DBFC94A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3069D642-C1CD-4615-85ED-C16A7DBFC94A}.Release|x86.ActiveCfg = Release|Any CPU
 		{3069D642-C1CD-4615-85ED-C16A7DBFC94A}.Release|x86.Build.0 = Release|Any CPU
+		{D52E8FD4-DFCA-4F0F-A4A0-CF2EE5471663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52E8FD4-DFCA-4F0F-A4A0-CF2EE5471663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52E8FD4-DFCA-4F0F-A4A0-CF2EE5471663}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D52E8FD4-DFCA-4F0F-A4A0-CF2EE5471663}.Debug|x86.Build.0 = Debug|Any CPU
+		{D52E8FD4-DFCA-4F0F-A4A0-CF2EE5471663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52E8FD4-DFCA-4F0F-A4A0-CF2EE5471663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52E8FD4-DFCA-4F0F-A4A0-CF2EE5471663}.Release|x86.ActiveCfg = Release|Any CPU
+		{D52E8FD4-DFCA-4F0F-A4A0-CF2EE5471663}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

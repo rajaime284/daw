@@ -1,0 +1,538 @@
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\appsettings.json
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\taller-be.exe
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\taller-be.deps.json
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\taller-be.runtimeconfig.json
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\taller-be.runtimeconfig.dev.json
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\taller-be.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\taller-be.pdb
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\en\taller-be.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\taller-be.Views.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\taller-be.Views.pdb
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller_be.Resources.Textos.resources
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller_be.Resources.Textos.en.resources
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.csproj.GenerateResource.cache
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorAssemblyInfo.cache
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorAssemblyInfo.cs
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.AssemblyInfoInputs.cache
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.AssemblyInfo.cs
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\en\taller-be.resources.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.TagHelpers.input.cache
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.TagHelpers.output.cache
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorCoreGenerate.cache
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index - copia.cshtml.g.cs
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copia.cshtml.g.cs
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorTargetAssemblyInfo.cache
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorTargetAssemblyInfo.cs
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.Views.pdb
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.csproj.CopyComplete
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\staticwebassets\taller-be.StaticWebAssets.Manifest.cache
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\staticwebassets\taller-be.StaticWebAssets.xml
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.pdb
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.MvcApplicationPartsAssemblyInfo.cache
+D:\jaume\classes\dlsi\DAW\tallers classe\Taller VUE.js\Taller-be\obj\Debug\netcoreapp3.1\taller-be.csprojAssemblyReference.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\taller-be.StaticWebAssets.xml
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\taller-be.exe
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\taller-be.deps.json
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\taller-be.runtimeconfig.json
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\taller-be.runtimeconfig.dev.json
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\taller-be.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\taller-be.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\en\taller-be.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\taller-be.Views.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\taller-be.Views.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.csproj.AssemblyReference.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller_be.Resources.Textos.resources
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller_be.Resources.Textos.en.resources
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.csproj.GenerateResource.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.AssemblyInfoInputs.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.AssemblyInfo.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorAssemblyInfo.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorAssemblyInfo.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\en\taller-be.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\staticwebassets\taller-be.StaticWebAssets.Manifest.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.TagHelpers.input.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.TagHelpers.output.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorCoreGenerate.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index - copia.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copia.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorTargetAssemblyInfo.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorTargetAssemblyInfo.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.Views.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.csproj.CopyComplete
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\20220119.taller-be.final\taller-be\obj\Debug\netcoreapp3.1\taller-be.genruntimeconfig.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\taller-be.exe
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\taller-be.deps.json
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\taller-be.runtimeconfig.json
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\taller-be.runtimeconfig.dev.json
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\taller-be.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\taller-be.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\en\taller-be.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\taller-be.Views.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\taller-be.Views.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.csprojAssemblyReference.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller_be.Resources.Textos.resources
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller_be.Resources.Textos.en.resources
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.csproj.GenerateResource.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.AssemblyInfoInputs.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.AssemblyInfo.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorAssemblyInfo.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorAssemblyInfo.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\en\taller-be.resources.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\staticwebassets\taller-be.StaticWebAssets.Manifest.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\staticwebassets\taller-be.StaticWebAssets.xml
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\scopedcss\bundle\taller-be.styles.css
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.TagHelpers.input.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.TagHelpers.output.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorCoreGenerate.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index - copia.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copia.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorTargetAssemblyInfo.cache
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.RazorTargetAssemblyInfo.cs
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.Views.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.csproj.CopyComplete
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.dll
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.pdb
+C:\Users\Andy\Desktop\Master\2º\DAW\Proyecto\tallerVueFinal\taller-be\obj\Debug\netcoreapp3.1\taller-be.genruntimeconfig.cache
